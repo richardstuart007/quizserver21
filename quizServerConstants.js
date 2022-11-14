@@ -7,7 +7,7 @@ exports.REMOTE_KNEX_HOST = 'containers-us-west-71.railway.app'
 exports.REMOTE_KNEX_USER = 'postgres'
 exports.REMOTE_KNEX_PWD = 'cfMC0QKSa86EIbpBdqfk'
 exports.REMOTE_KNEX_DATABASE = 'railway'
-exports.REMOTE_URL_PORT = 59001
+exports.REMOTE_URL_PORT = 9001
 //
 //  Database (Railway 20)
 //
